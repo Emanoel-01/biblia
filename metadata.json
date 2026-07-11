@@ -1,0 +1,6 @@
+{
+  "name": "Bíblia Predial",
+  "description": "Uma plataforma inteligente e interativa de engenharia diagnóstica e consulta exaustiva de todos os sistemas prediais, suas tipologias, patologias comuns, métodos de diagnóstico, compatibilização (clash detection), cronogramas de manutenção e calculadora paramétrica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
